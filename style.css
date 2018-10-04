@@ -1,0 +1,32 @@
+body, body * {
+    font-family: 'Montserrat', sans-serif;
+    color: #494949;
+}
+
+body {
+    background-color: #40a63d1a;
+}
+
+ .logo{
+    height:50px;
+    display: flex;
+
+
+}
+
+section{
+    background-color: #474747;
+    
+}
+
+p{
+    padding:left 50px ;
+    height:50px;
+}
+
+.postion{
+    display:inline-block;
+    
+}
+
+/* Write all your CSS here! */
